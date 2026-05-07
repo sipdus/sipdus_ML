@@ -3,6 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
-data/raw/PPG_Dataset/
+./c1s02_raw
 
-c1s02_raw
+./data
